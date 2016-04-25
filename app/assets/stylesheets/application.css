@@ -38,4 +38,5 @@ body table th, td {
 }
 
 tr:hover {background-color: #5FA8D3}
+tr:first-child:hover{background-color:#62B6CB} 
 
